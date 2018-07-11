@@ -1,0 +1,10 @@
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\CSharpPluginProjectr.dll
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\CSharpPluginProjectr.pdb
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\obj\Debug\CSharpPluginProjectr.csprojResolveAssemblyReference.cache
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\obj\Debug\CSharpPluginProjectr.csproj.CoreCompileInputs.cache
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\obj\Debug\CSharpPluginProjectr.dll
+C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginProjectr\obj\Debug\CSharpPluginProjectr.pdb

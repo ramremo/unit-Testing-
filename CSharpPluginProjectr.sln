@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPluginProjectr", "CSharpPluginProjectr\CSharpPluginProjectr.csproj", "{EF32E32A-D4DE-4FE1-B0A1-287311B6E902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPluginTestProject1", "CSharpPluginTestProject1\CSharpPluginTestProject1.csproj", "{3569D3BE-33E5-405F-848A-664162BD2029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF32E32A-D4DE-4FE1-B0A1-287311B6E902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF32E32A-D4DE-4FE1-B0A1-287311B6E902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF32E32A-D4DE-4FE1-B0A1-287311B6E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF32E32A-D4DE-4FE1-B0A1-287311B6E902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3569D3BE-33E5-405F-848A-664162BD2029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3569D3BE-33E5-405F-848A-664162BD2029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3569D3BE-33E5-405F-848A-664162BD2029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3569D3BE-33E5-405F-848A-664162BD2029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F40C4CC-A80D-4886-85BA-5747ACA7239F}
+	EndGlobalSection
+EndGlobal
