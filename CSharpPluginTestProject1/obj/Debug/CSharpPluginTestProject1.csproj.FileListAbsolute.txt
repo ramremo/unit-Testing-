@@ -31,3 +31,36 @@ C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginTestProject1\ob
 C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.csproj.CoreCompileInputs.cache
 C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.dll
 C:\Users\ramkumarb\source\repos\CSharpPluginProjectr\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.pdb
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\CSharpPluginTestProject1.dll.config
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\CSharpPluginTestProject1.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\CSharpPluginTestProject1.pdb
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\CSharpPluginProjectr.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\FakeItEasy.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\FakeXrmEasy.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\CSharpPluginProjectr.pdb
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\FakeItEasy.pdb
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\FakeItEasy.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.dll
+C:\Users\ramkumarb\Source\Repos\CSharpPluginProjectr - Copy\CSharpPluginTestProject1\obj\Debug\CSharpPluginTestProject1.pdb
