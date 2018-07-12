@@ -36,7 +36,7 @@ namespace CSharpPluginTestProject1
 
             context.ExecutePluginWith<PluginClass1>(executionContext);
 
-            Assert.AreEqual("POWER1",
+            Assert.AreEqual("POWER",
                 ((Entity)executionContext.InputParameters["Target"]).GetAttributeValue<string>("lastname"));
         }
     }

@@ -22,7 +22,7 @@ namespace CSharpPluginProjectr
             {
                 Entity entity = (Entity)context.InputParameters["Target"];
 
-                //My stuff here TEST FR GIT
+                //My stuff here
                 //var response = service.Execute(new WhoAmIRequest());
 
                 var lastName = entity.GetAttributeValue<string>("lastname");
